@@ -26,6 +26,10 @@ class DetailViewController: UIViewController {
             
             // Remove HTML tags from the caption and set it to the text view
             textView.text = post.caption.trimHTMLTags()
+        
+            
+            // Set large title style
+            navigationController?.navigationBar.prefersLargeTitles = true
     
     }
     
