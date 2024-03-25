@@ -2,7 +2,7 @@
 
 Submitted by: **Chelsea Bhuiyan**
 
-**Tumblr** is an app that 
+**Tumblr App** is an app that fetches a feed of blog posts from the Tumblr API and display them in a scrolling list via a table view. It has the ability for users to navigate to a detail view by tapping a blog post in the main tumblr feed.
 
 Time spent: **6** hours spent in total
 
