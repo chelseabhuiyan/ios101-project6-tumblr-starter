@@ -18,7 +18,10 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added navigation bar titles with large title styles
+- [x] Unselect row when returning from the detail view
+- [x] Image view content modes, like Aspect Fill
+- [x] Updated font to SemiBold for UITextView
 
 ## Video Walkthrough
 
